@@ -1,2 +1,0 @@
-# polotno
-Created with CodeSandbox
